@@ -1,2 +1,4 @@
-# first-repo
-This is a basic repository
+# first-repository
+This is a basic repository 
+Sai Krishna Pullabhatla
+This is my first Repository
